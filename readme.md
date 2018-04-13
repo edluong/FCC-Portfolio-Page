@@ -14,4 +14,7 @@ User Story: I navigate to different sections of the webpage by clicking buttons 
 Technologies: HTML5, Bootstrap 4.0
 
 TODO List
-* Create About Page 
+* Create About Div
+* Create Portfolio Div
+* Create Form in Contact Div
+* Use some jQuery functionality
