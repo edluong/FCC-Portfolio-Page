@@ -14,6 +14,7 @@ User Story: I navigate to different sections of the webpage by clicking buttons 
 Technologies: HTML5, Bootstrap 4.0
 
 TODO List
+* Work on sticky footer (need to use css) https://stackoverflow.com/questions/46722697/bootstrap-4-sticky-footer-not-sticking
 * Create About Div
 * Create Portfolio Div
 * Create Form in Contact Div

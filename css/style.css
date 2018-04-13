@@ -6,3 +6,12 @@ html{
     -o-background-size: cover;
     height:100%;
 }
+
+body{
+    background-color:transparent;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}
